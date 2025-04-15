@@ -2,7 +2,8 @@
 
 ## Introduce
 
-We have proposed a novel distributed DRL algorithm called safe Gaussian distributed soft actor-critic (SGDSAC). Additionally, to facilitate the training of DRL-based energy management strategies for HEVs using Python and Simulink, we have provided a DLL-based DRL environment configuration solution.
+```plaintext
+We have proposed a novel distributional DRL algorithm called safe Gaussian distributed soft actor-critic (SGDSAC). Additionally, to facilitate the training of DRL-based energy management strategies for HEVs using Python and Simulink, we have provided a DLL-based DRL environment configuration solution.
 We make our approach openly available here to facilitate the reviewers' evaluation of our work.
 
 ## Directory Structure
